@@ -80,6 +80,7 @@ int main() {
 }
 ```
 ## Output:
+<img width="715" height="371" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/d4bb9052-a7e2-42bb-81bd-db59162b381b" />
 
 ## Result:
 The program is executed successfully.
